@@ -1,4 +1,5 @@
-### Hi there 👋🏼
+### Hi there <span class="wave">👋</span>
+
 
 
 ![counter](https://enpsz0ls4ojhgrn.m.pipedream.net)
@@ -17,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lavanya243)
+
