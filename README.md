@@ -1,4 +1,5 @@
-### Hi there <h1>Hi there! <span class="wave">👋</span></h1>
+### Hi there 👋🏼
+
 
 ![counter](https://enpsz0ls4ojhgrn.m.pipedream.net)
 <!--
