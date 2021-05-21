@@ -1,4 +1,5 @@
-### Hi there https://media.tenor.com/images/c44f474c9e5f6a56431e6d21d913805d/tenor.gif
+### Hi there <h1>Hi there! <span class="wave">👋</span></h1>
+
 ![counter](https://enpsz0ls4ojhgrn.m.pipedream.net)
 <!--
 **lavanya243/lavanya243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
