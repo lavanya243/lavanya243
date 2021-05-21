@@ -1,5 +1,5 @@
 ### Hi there 👋
-![counter](https://pipedream.com/@lavanya243/copy-of-github-profile-view-counter-p_k2CpoBD)
+![counter](https://lavanya243.m.pipedream.net)
 <!--
 **lavanya243/lavanya243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
